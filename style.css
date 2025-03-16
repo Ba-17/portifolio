@@ -1,5 +1,6 @@
 :root{
     --cor-de-fundo: #e96cce75;
+    --cor-de-fundo-2: #ebacdd56;
 
 }
 
@@ -12,4 +13,8 @@ header{
 
 body{
     background-color: var(--cor-de-fundo);
+}
+
+section{
+    background-color: var(--cor-de-fundo-2) ;
 }
