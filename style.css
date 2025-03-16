@@ -2,7 +2,7 @@
 header{
     display: flex;
     justify-content:space-around;
-    align-items: center; 
+    
     background-color: rgba(117, 183, 238, 0.678);
     grid-template-columns: 20% 30% 30% ;
 }
