@@ -5,7 +5,7 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #e9ff89; 
+    background-color: #f3a3d2c4; 
 }
 
 header {
@@ -14,7 +14,7 @@ header {
     align-items: center;
     color: rgb(0, 0, 0);
     padding: 10px;
-    background-color: #3dff4a;
+    background-color: #82eff79a;
   
 }
 
@@ -38,7 +38,7 @@ header {
     position: absolute;
     top: 40px;
     left: 0;
-    background: #3dff4a; 
+    background: #f3a3d2c4; 
     color: black;
     list-style: none;
     padding: 10px;
