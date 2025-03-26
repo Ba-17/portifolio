@@ -60,13 +60,7 @@ header {
     background: #bbfdff2a;
 }
 
-.port{ 
-    margin-left: -100px; 
-    color: #f3a3d2c4; 
-    font-size: 30px; 
-    cursor: pointer; 
-    padding-right: 50px;
-}
+
 nav {
     padding: 10px;
     text-align: center;
