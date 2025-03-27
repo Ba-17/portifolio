@@ -52,7 +52,7 @@ header {
 
 .menu-list a {
     text-decoration: none;
-    color: rgba(183, 229, 255, 0.418);
+    color: rgb(0, 0, 0);
     display: block;
 }
 
